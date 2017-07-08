@@ -1,0 +1,2 @@
+# codeigniter-htaccess
+CodeIgniter htaccess
