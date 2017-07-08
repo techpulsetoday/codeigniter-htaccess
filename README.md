@@ -1,4 +1,4 @@
-# codeigniter-htaccess
+# CodeIgniter Htaccess
 CodeIgniter htaccess
 
 1. Cross-domain AJAX requests
