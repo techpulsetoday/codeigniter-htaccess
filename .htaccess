@@ -213,11 +213,10 @@ AddDefaultCharset utf-8
 
 <IfModule mod_rewrite.c>
 # For security reasons, Option followsymlinks cannot be overridden.
-#    Options +FollowSymlinks
+#   Options +FollowSymlinks
     Options +SymLinksIfOwnerMatch
-  # Options +SymLinksIfOwnerMatch
     RewriteEngine On
-  # RewriteBase /
+#   RewriteBase /
 </IfModule>
 
 # ------------------------------------------------------------------------------
