@@ -1,5 +1,4 @@
 # CodeIgniter Htaccess
-CodeIgniter htaccess
 
 1. Cross-domain AJAX requests
 2. CORS-enabled images 
